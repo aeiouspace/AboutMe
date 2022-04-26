@@ -18,7 +18,7 @@
 \## **⛹ 兴趣爱好**
 
 
-> <center><img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-eat_2022-04-26_16:38:36.svg" width="60" height="60" alt="eat">&emsp;<img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-bed_2022-04-26_16:40:24.svg" width="60" height="60" alt="sleep">&emsp;<img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-script_2022-04-26_16:41:43.svg"  width="60" height="60" alt="coding"><br /><span font-size='64px'>Eat&emsp;&emsp;Sleep&emsp;&emsp;Coding</span></center>
+> <center><img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-eat_2022-04-26_16:38:36.svg" width="60" height="60" alt="eat">&emsp;<img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-bed_2022-04-26_16:40:24.svg" width="60" height="60" alt="sleep">&emsp;<img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/iconmonstr-script_2022-04-26_16:41:43.svg"  width="60" height="60" alt="coding"><br /><span font-size='64px'>Eat&emsp;&emsp;&emsp;Sleep&emsp;&emsp;&emsp;Coding</span></center>
 
 
 
