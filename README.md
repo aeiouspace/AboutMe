@@ -12,8 +12,6 @@
 
 \##  **👨‍💻 博主是谁**
 
-> <center><img src="https://cdn.jsdelivr.net/gh/aeiouspace/IMG@master/PicGo-Core/IMG_0690_2022-03-28_11:11:48.JPG" width="150" height="100" alt="Self"></center>
-
 >一个沉静在二进制世界的二进制单身狗🤖
 >
 >硅基文明与碳基文明沟通的桥梁🌉
