@@ -7,7 +7,7 @@
 > 随便玩玩
 
 
-<center><img src=https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github_2022-05-30_17:44:02.gif></center>
+![GitHub-Nice](https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github_2022-05-30_17:44:02.gif)
 
 
 
