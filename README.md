@@ -30,4 +30,8 @@
 
 <hr />
 
+![github-contribution-grid-snake](https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github-contribution-grid-snake_2022-07-31_22:46:46.svg)
+
+<hr />
+
 > 注：本站图片来源于<a href="#" title="pexels"><img src="https://cdn.jsdelivr.net/gh/onepluskiller/IMG@master/PicGo-Core/pexels.svg" width="30" height="30"></a>&emsp;|&emsp;本站图标来源于<a href="#" title="simpleicons"><img src="https://cdn.jsdelivr.net/gh/onepluskiller/IMG@master/PicGo-Core/simpleicons.svg" width="30" height="30"></a>&emsp;|&emsp;本站基于GitHub Pages<a href="#" title="githubpages"><img src="https://cdn.jsdelivr.net/gh/onepluskiller/IMG@master/PicGo-Core/githubpages.svg" width="30" height="30"></a>
