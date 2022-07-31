@@ -7,6 +7,7 @@
 > 随便玩玩
 
 ![GitHub-Nice](https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github_2022-05-30_17:44:02.gif)
+![GitHub Contributions](https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/GitHub Contributions_2022-07-31_22:52:32.gif)
 
 \##  **👨‍💻 作者是谁**
 
