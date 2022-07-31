@@ -6,8 +6,7 @@
 
 > 随便玩玩
 
-<img src="https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github_2022-05-30_17:44:02.gif" alt="Githuber">
-<img src="https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/GitHub Contributions_2022-07-31_22:52:32.gif alt="GitHub Contributions">
+<img src="https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/github_2022-05-30_17:44:02.gif" width="244" alt="Githuber"><img src="https://fastly.jsdelivr.net/gh/Peachfart/IMG@master/PicGo-Core/GitHub-Contributions_2022-07-31_22:57:11.gif" width="244" alt="GitHub Contributions">
 
 \##  **👨‍💻 作者是谁**
 
